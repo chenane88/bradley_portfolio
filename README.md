@@ -38,3 +38,9 @@ Hello, My Name is Bradley Chenane and here are some of the projects i have done
  - Prediction using Facebook Prophet
  - Prediction using LTSM
  
+# [Sponsorship](https://github.com/chenane88/Sponsorshipsite)
+ Website made using django to meet the following requirements
+ - Allow Students to apply for spomsorship
+ - Allow Sponsors to Post Sponsorships
+ - Allow students to get notified of the state of their applications
+ - Favorite ideal sponsorships
