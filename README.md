@@ -13,7 +13,7 @@ My Portfolio
  - Natural Language Processing Using NLTK
  - Training a model to identify sentiment
  
- # [Stocks](https://github.com/chenane88/Stocks)
+# [Stocks](https://github.com/chenane88/Stocks)
  Stock Analysis and Prediction using Facebook Prophet
  - Data Cleaning and Exploration
  - Data Visualization using choropleth, plotly and wordcloud
