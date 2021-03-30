@@ -30,3 +30,11 @@ My Portfolio
  - Data Cleaning and Exploration
  - Natural Language Processing using NLTK
  - Visualization using wordcloud
+
+# [Dowjones](https://github.com/chenane88/Dowjones)
+ Prediction using Facebook Prophet and LTSM
+  - Data Cleaning and Exploration
+ - Data Visualization using matplotlib and seaborn
+ - Prediction using Facebook Prophet
+ - Prediction using LTSM
+ 
