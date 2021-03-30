@@ -13,3 +13,11 @@ My Portfolio
  - Natural Language Processing Using NLTK
  - Training a model to identify sentiment
  
+ # Stocks
+ Stock Analysis and Prediction using Facebook Prophet
+ - Data Cleaning and Exploration
+ - Data Visualization using choropleth, plotly and wordcloud
+ - Identification of insights
+ - Machine Learning
+ - Using Facebook Prophet for prediction
+ 
