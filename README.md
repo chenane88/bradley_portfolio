@@ -22,7 +22,7 @@ Hello, My Name is Bradley Chenane and here are some of the projects i have done
  - Using Facebook Prophet for prediction
  
 # [Flask App](https://github.com/chenane88/Flask-App)
- Simple Blog Using Flask
+ Simple Blog with CRUD functionaloty using Flask
  - Flask is a lightweight python framework
  
 # [NLP](https://github.com/chenane88/NLP)
