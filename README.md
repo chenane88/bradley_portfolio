@@ -23,7 +23,7 @@ Hello, My Name is Bradley Chenane and here are some of the projects i have done
  
 # [Flask App](https://github.com/chenane88/Flask-App)
  Simple Web App Using Flask
- -Flask is a light pythhon framework
+ -Flask is a lightweight python framework
  
 # [NLP](https://github.com/chenane88/NLP)
  Natural Language processing using NLTK and visualization using wordcloud
